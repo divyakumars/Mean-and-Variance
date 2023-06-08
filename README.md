@@ -1,3 +1,7 @@
+EXP NO:01
+
+DATE:06-04-2023
+
 #  Mean and variance of a discrete  distribution
 
 
